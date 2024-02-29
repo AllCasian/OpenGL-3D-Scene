@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\redwi\OneDrive\Desktop\ProiectPG\ProiectBun\main.cpp(120,33): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  ProiectBun.vcxproj -> C:\Users\redwi\OneDrive\Desktop\ProiectPG\ProiectBun\x64\Debug\ProiectBun.exe
